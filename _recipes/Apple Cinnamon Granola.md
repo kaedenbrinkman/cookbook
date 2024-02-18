@@ -25,6 +25,6 @@ tags: [granola, apple, cinnamon, breakfast]
 2. In a bowl, stir together rolled oats, coconut, cinnamon, almonds or peanuts, sunflower nuts, and sesame seeds.
 3. In another bowl, combine honey or syrup and oil, stir into oat mixture.
 4. Spread mixture evenly into a greased 15x10x1-inch baking pan.
-5. Bake in a 300 oven for 30 to 35 minutes or till lightly browned, stirring after 20 minutes.
+5. Bake for 30 to 35 minutes or till lightly browned, stirring after 20 minutes.
 6. Remove from the oven and immediately turn out onto a large piece of foil. Add dried fruit. Cool, then break into clumps. Store in tightly covered jars or plastic bags at room temperature for up to 2 weeks. For longer storage, seal in freezer bags and freeze.
 
