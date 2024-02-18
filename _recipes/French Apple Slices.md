@@ -3,8 +3,8 @@ sourceUrl:
 spoonacularSourceUrl:
 imageSource: https://unsplash.com/photos/yISrQEZjF8s
 date: 2024-02-17
-cooking_time: 15
-servings: 24
+cooking_time: 60
+servings: 12
 tags: [dessert, apples, pie]
 ---
 # French Apple Slices
