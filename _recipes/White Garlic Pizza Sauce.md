@@ -9,6 +9,8 @@ tags: [sauce, italian, pizza]
 ---
 # White Garlic Pizza Sauce
 
+Servings are for 1 pizza.
+
 - 2 tbsp unsalted butter
 - 2 tbstp all-purpose flour
 - 1 1/4 cup milk
