@@ -12,5 +12,5 @@ gem 'webrick'
 
 gem 'jekyll-titles-from-headings'
 group :jekyll_plugins do
-  gem 'jekyll-pwa-plugin', "= 2.2.3"
+  gem "jekyll-pwa-workbox"
 end
