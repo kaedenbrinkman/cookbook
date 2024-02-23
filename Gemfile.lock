@@ -272,7 +272,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 231)
   jekyll-paginate
-  jekyll-pwa-workbox
+  jekyll-pwa-workbox (~> 5.1)
   jekyll-titles-from-headings
   tzinfo-data
   webrick

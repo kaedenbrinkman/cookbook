@@ -11,6 +11,5 @@ gem 'tzinfo-data'
 gem 'webrick'
 
 gem 'jekyll-titles-from-headings'
-group :jekyll_plugins do
-  gem "jekyll-pwa-workbox"
-end
+
+gem "jekyll-pwa-workbox", "~> 5.1"

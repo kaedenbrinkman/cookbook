@@ -256,7 +256,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-titles-from-headings
-  - jekyll-pwa-plugin
+  - jekyll-pwa-workbox
 
 pwa:
   enabled: true
