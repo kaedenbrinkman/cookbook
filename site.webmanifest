@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "Recipes",
     "short_name": "",
     "icons": [
         {
@@ -15,5 +15,5 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "fullscreen"
 }

@@ -28,12 +28,3 @@ use-site-title: true
   {% endif %}
 </ul>
 {% endif %}
-
-<script>
-  if (navigator.serviceWorker) {
-    navigator.serviceWorker.register (
-      '/sw.js',
-      {scope: '/'}
-    )
-  }
-</script>

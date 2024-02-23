@@ -7,3 +7,6 @@ gem "github-pages", '197', group: :jekyll_plugins
 gem 'jekyll-paginate'
 
 gem 'jekyll-titles-from-headings'
+group :jekyll_plugins do
+  gem 'jekyll-pwa-plugin'
+end

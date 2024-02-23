@@ -12,7 +12,7 @@ tags: [dessert, pudding, tapioca]
 Servings are for 1/2 cup of pudding.
 
 For tapioca pearls:
-- 1 cup large tapioca pearls
+- 1 cup (160 g) large tapioca pearls
 - 8 cups water
 
 For pudding:

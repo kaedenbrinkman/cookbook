@@ -256,3 +256,17 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-pwa-plugin
+
+pwa:
+  enabled: true
+  sw_src_filepath: service-worker.js
+  sw_dest_filename: service-worker.js
+  dest_js_directory: js # Required
+  precache_recent_posts_num: 5
+  precache_glob_directory: /
+  precache_glob_patterns:
+    - "{js,css,img}/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+  precache_glob_ignores:
+    - sw-register.js
