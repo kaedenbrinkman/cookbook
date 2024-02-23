@@ -30,3 +30,12 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<script>
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register (
+      '/service-worker.js',
+      {scope: '/'}
+    )
+  }
+</script>

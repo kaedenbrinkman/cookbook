@@ -33,4 +33,5 @@ If not using pearls right away:
 For tapioca pudding:
 
 4. Put milk (or milk of your choice, preferably full fat/cream for the best result), sugar and the tapioca pearls in the pot. Bring the milk to a gentle simmer, don't hard boil it. Cook until sugar dissolves.
-5. Let it cool down for about 5 minutes at room temperature. You can eat the pudding warm or chill it in the fridge after it has cooled down. Enjoy!
+5. With one hand keep whisking the egg, slowly add some of the milk into the egg and keep whisking. This is to temper the egg so it won't curdle when you add it to the milk. After that, gradually pour the egg mixture into pot and keep stirring. The mixture will thicken. It may not thicken as much but it will continue to thicken as it cools down. Remove from the heat and add vanilla extract and stir to combine.
+6. Let it cool down for about 5 minutes at room temperature. You can eat the pudding warm or chill it in the fridge after it has cooled down. Enjoy!
