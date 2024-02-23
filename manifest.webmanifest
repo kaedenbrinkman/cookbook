@@ -1,0 +1,17 @@
+{
+  "name": "Recipes",
+  "short_name": "Recipes",
+  "description": "Brinkman Recipe Collection",
+  "scope": "/",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "fullscreen",
+  "icons": [
+      {
+        "src": "/favicon.ico",
+        "type": "image/x-icon",
+        "sizes": "16x16"
+      }
+  ]
+}
