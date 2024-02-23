@@ -12,7 +12,7 @@ tags: [sauce, italian, pizza]
 Servings are for 1 pizza.
 
 - 2 tbsp unsalted butter
-- 2 tbstp all-purpose flour
+- 2 tbsp all-purpose flour
 - 1 1/4 cup milk
 - 1/4 tsp salt
 - 1/8 tsp black pepper
